@@ -47,9 +47,15 @@ int main(){
             return 0;
         }
         cout<<"\nGuesses left: "<<maxAttempts-attemptsUsed<<endl;
+        cout << "Previous Guesses: ";
+        for (int i=0;i<attemptsUsed;i++){
+            cout<<previousGuesses[i]<<" ";
+        }
+        cout<<endl;
     }
     cout<<"\n Game Over!";
     cout<<"\nThe correct number was: "<<randomnumber;
     return 0;
 }
+
     
