@@ -1,9 +1,6 @@
 # IC_CP_01
 C++ Number Guessing Game – Task 1 assigned by Interncred
 
-# IC_CP_01
-C++ Number Guessing Game – Task 1 assigned by Interncred
-
 ## Number Guessing Game (C++)
 
 This repository contains the Number Guessing Game implemented in C++ as part of
